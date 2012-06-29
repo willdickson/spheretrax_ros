@@ -1,0 +1,15 @@
+<package>
+  <description brief="spheretrax_ros">
+
+     spheretrax_ros
+
+  </description>
+  <author>Will Dickson</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/spheretrax_ros</url>
+  <depend package="rospy"/>
+
+</package>
+
+
